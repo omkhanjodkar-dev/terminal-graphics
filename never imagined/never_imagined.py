@@ -13,7 +13,7 @@ rmax = 2
 # rmin = 2
 
 g = 9.8
-vx = 5
+vx = 0
 vy = -5
 vz = 5
 u = -1
